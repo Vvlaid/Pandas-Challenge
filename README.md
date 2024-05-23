@@ -1,3 +1,5 @@
+![education](https://github.com/Vvlaid/Pandas-Challenge/assets/166451251/86cf55f2-9939-4250-b97d-5e29578bacd2)
+
 # Pandas-Challenge
 
 Instructions
